@@ -1,0 +1,7 @@
+C:\Users\paula\source\repos\Zodiac\Zodiac\bin\Debug\Zodiac.exe.config
+C:\Users\paula\source\repos\Zodiac\Zodiac\bin\Debug\Zodiac.exe
+C:\Users\paula\source\repos\Zodiac\Zodiac\bin\Debug\Zodiac.pdb
+C:\Users\paula\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.csproj.AssemblyReference.cache
+C:\Users\paula\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.exe
+C:\Users\paula\source\repos\Zodiac\Zodiac\obj\Debug\Zodiac.pdb
